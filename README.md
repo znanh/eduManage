@@ -1,4 +1,4 @@
-# zhku
+# eduManage
 
 ## Project setup
 ```
